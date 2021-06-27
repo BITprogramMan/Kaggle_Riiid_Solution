@@ -18,7 +18,7 @@
 
 <img src="figure/image-20210627225539573.png" alt="image-20210627225539573" style="zoom:75%;" />
 
-更多关于数据的介绍参考这里
+更多关于数据的介绍参考[这里](https://github.com/BITprogramMan/Kaggle_Riiid_Solution/blob/master/data_analysis.md)
 
 ### 模型
 
